@@ -1,0 +1,10 @@
+C:\Users\Dorian\source\repos\RussianRoulet\RussianRoulet\bin\Debug\RussianRoulet.exe.config
+C:\Users\Dorian\source\repos\RussianRoulet\RussianRoulet\bin\Debug\RussianRoulet.exe
+C:\Users\Dorian\source\repos\RussianRoulet\RussianRoulet\bin\Debug\RussianRoulet.pdb
+C:\Users\Dorian\source\repos\RussianRoulet\RussianRoulet\obj\Debug\RussianRoulet.csproj.AssemblyReference.cache
+C:\Users\Dorian\source\repos\RussianRoulet\RussianRoulet\obj\Debug\RussianRoulet.Form1.resources
+C:\Users\Dorian\source\repos\RussianRoulet\RussianRoulet\obj\Debug\RussianRoulet.Properties.Resources.resources
+C:\Users\Dorian\source\repos\RussianRoulet\RussianRoulet\obj\Debug\RussianRoulet.csproj.GenerateResource.cache
+C:\Users\Dorian\source\repos\RussianRoulet\RussianRoulet\obj\Debug\RussianRoulet.csproj.CoreCompileInputs.cache
+C:\Users\Dorian\source\repos\RussianRoulet\RussianRoulet\obj\Debug\RussianRoulet.exe
+C:\Users\Dorian\source\repos\RussianRoulet\RussianRoulet\obj\Debug\RussianRoulet.pdb
